@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
+    <loc>https://blog.ibestread.com/tags/index.html</loc>
     
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/googleb4ef1da1676b6c6b.html</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/manifest.json</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/categories/index.html</loc>
-    
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
+    <lastmod>2020-01-29T10:41:56.924Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/series/index.html</loc>
     
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
+    <lastmod>2020-01-29T10:41:56.924Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/slides/index.html</loc>
     
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
+    <lastmod>2020-01-29T10:41:56.924Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/index.html</loc>
+    <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
     
-    <lastmod>2020-01-29T10:38:51.132Z</lastmod>
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/googleb4ef1da1676b6c6b.html</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/manifest.json</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/categories/index.html</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
+    
+    <lastmod>2020-01-29T10:41:56.920Z</lastmod>
     
   </url>
   

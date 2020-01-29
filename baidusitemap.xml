@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
-    <lastmod>2020-01-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
-    <lastmod>2020-01-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
-    <lastmod>2020-01-29</lastmod>
-  </url>  <url>
     <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
     <lastmod>2020-01-29</lastmod>
   </url>  <url>
@@ -23,6 +14,15 @@
     <lastmod>2020-01-29</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
+    <lastmod>2020-01-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
+    <lastmod>2020-01-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
+    <lastmod>2020-01-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
     <lastmod>2020-01-29</lastmod>
   </url>
 </urlset>
