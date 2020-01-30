@@ -1,8 +1,4 @@
-https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/
 https://blog.ibestread.com/exploring-asp-net-core-3/
-https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
-https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/
-https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/
-https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/
-https://blog.ibestread.com/new-in-net-core-3-local-tools/
-https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/
+https://blog.ibestread.com/exploring-the-new-project-file-in-asp-net-core-3/
+https://blog.ibestread.com/exploring-the-program-file-in-asp-net-core-3/
+https://blog.ibestread.com/exploring-the-generic-host-in-asp-net-core-3/
