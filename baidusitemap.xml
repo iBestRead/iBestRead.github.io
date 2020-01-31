@@ -2,15 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
-    <lastmod>2020-01-30</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/exploring-the-new-project-file-in-asp-net-core-3/</loc>
-    <lastmod>2020-01-30</lastmod>
+    <lastmod>2020-01-31</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/exploring-the-program-file-in-asp-net-core-3/</loc>
-    <lastmod>2020-01-30</lastmod>
+    <lastmod>2020-01-31</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
+    <lastmod>2020-01-31</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/exploring-the-generic-host-in-asp-net-core-3/</loc>
-    <lastmod>2020-01-30</lastmod>
+    <lastmod>2020-01-31</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/exploring-the-new-project-file-in-asp-net-core-3/</loc>
+    <lastmod>2020-01-31</lastmod>
   </url>
 </urlset>
