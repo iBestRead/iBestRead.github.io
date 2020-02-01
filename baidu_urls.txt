@@ -1,7 +1,5 @@
 https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/
 https://blog.ibestread.com/git-commit-message-emoji-styleguide/
 https://blog.ibestread.com/exploring-asp-net-core-3/
-https://blog.ibestread.com/exploring-the-new-project-file-in-asp-net-core-3/
-https://blog.ibestread.com/exploring-the-program-file-in-asp-net-core-3/
-https://blog.ibestread.com/exploring-the-generic-host-in-asp-net-core-3/
+https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
 https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/
