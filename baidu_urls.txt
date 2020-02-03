@@ -1,3 +1,4 @@
+https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/
 https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/
 https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/
 https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/
