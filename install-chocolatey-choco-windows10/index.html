@@ -1,0 +1,128 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="description" content="Windows下的软件管理利器-Chocolatey"><meta name="keywords" content="效率,Chocolatey,Windows,软件"><meta name="author" content="Akini Xu,undefined"><meta name="copyright" content="Akini Xu"><title>Windows下的软件管理利器-Chocolatey | 嘉阅</title><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.6.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.6.0/css/theme/night.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.6.0/lib/css/zenburn.min.css"><meta name="generator" content="Hexo 4.2.0"></head><body><div class="reveal"><div class="slides"><section data-markdown data-separator="===" data-separator-vertical="==" data-charset="utf-8"><script type="text/template">
+## Chocolatey <small>Windows下的软件管理利器</small>
+<!-- .slide: data-background="#49B1F5" -->
+
+[Chocolatey](https://chocolatey.org/)是Windows平台上的软件管理器，通过它可以集中安装、管理、更新各种各样的软件。
+
+类似 Linux 下的apt-get 、yum等程序包管理器。 
+
+`Chocolatey`的安装与使用都非常简单，我们一起来体验一下！
+
+===
+
+## 安装Chocolatey
+<!-- .slide: data-transition="concave" data-background="#C7916B" -->
+
+### 以管理员的方式打开 PowerShell
+
+ `右击` 左下角 `Windows 图标`，选择 `Windows PowerShell(管理员)(A)` 
+
+===
+
+### 输入安装命令安装 Chocolatey
+<!-- .slide: data-transition="fade" data-background="#00C4B6" -->
+
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
+
+===
+
+### 检查是否安装成功
+
+在 PowerShell 终端输入 `choco` 或 `choco -?` 看到下面内容即表示已安装成功： 
+<!-- .slide: data-transition="convex" data-background="#1B9EF3" -->
+
+```bash
+This is a listing of all of the different things you can pass to choco.
+
+Commands
+
+ * list - lists remote or local packages
+ * find - searches remote or local packages (alias for search)
+ * search - searches remote or local packages (alias for list)
+ * info - retrieves package information. Shorthand for choco search pkgname --exact --verbose
+ * install - installs packages from various sources
+ ...
+```
+
+===
+
+## Choco 安装软件
+<!-- .slide: data-transition="zoom" data-background="#F47466" -->
+
+### 在终端中查找软件包
+
+在终端中输入 `choco` 搜索命令：
+
+```bash
+choco search nodejs # 这是搜索命令
+# 下面是搜索结果：
+Chocolatey v0.10.15
+nodejs 13.7.0 [Approved]
+nodejs.commandline 6.11.0 [Approved]
+nodejs.install 13.7.0 [Approved]
+nodejs-lts 12.14.1 [Approved]
+nvs 1.5.2 [Approved] Downloads cached for licensed users
+...
+```
+
+===
+
+###  在网页端查找软件就
+<!-- .slide: data-transition="convex" data-background="#69C282" -->
+
+-  登录 `choco` 软件包网站：[https://chocolatey.org/packages](https://sitoi.cn/go.html?u=aHR0cHM6Ly9jaG9jb2xhdGV5Lm9yZy9wYWNrYWdlcw==) 
+
+- 在搜索框搜索要安装的软件
+
+	![](https://cdn.ibestread.com/img/choco-6.png)
+
+===
+
+## 安装软件包
+<!-- .slide: data-background="#49B1F5" -->
+
+在 PowerShell 终端输入安装命令
+
+```bash
+choco install nodejs -y
+```
+
+常用软件：
+
+```bash
+choco install python -y # 安装python
+choco install git.install -y # 安装git
+choco install notepadplusplus.install -y # 安装notepad++
+choco install googlechrome -y # 安装chrome
+choco install typora -y # 安装typora
+choco install sourcetree -y # 安装Source Tree
+```
+
+
+
+</script></section></div></div><script src="https://cdn.jsdelivr.net/npm/reveal.js@3.6.0/lib/js/head.min.js"></script><script src="https://cdn.jsdelivr.net/npm/reveal.js@3.6.0/js/reveal.min.js"></script><script>Reveal.initialize({
+  mouseWheel: false,
+  transition: 'slide',
+  transitionSpeed: 'default',
+  parallaxBackgroundImage: '',
+  parallaxBackgroundSize: '',
+  parallaxBackgroundHorizontal: '',
+  parallaxBackgroundVertical: '',
+  markdown: {
+    smartypants: true
+  },
+  dependencies: [
+    { src: '/js/third-party/reveal/marked.min.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: '/js/third-party/reveal/markdown.min.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    // Syntax highlight for <code> elements
+    { src: '/js/third-party/reveal/highlight.min.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+    // Zoom in and out with Alt+click
+    { src: '/js/third-party/reveal/zoom.min.js', async: true },
+    // Speaker notes
+    { src: '/js/third-party/reveal/notes.min.js', async: true },
+    // MathJax
+    { src: '/js/third-party/reveal/math.min.js', async: true }
+  ]
+});</script><script>!function(e){var c=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function i(){for(var r=0;r<c.length;r++)t=c[r],0<=(n=t.getBoundingClientRect()).bottom&&0<=n.left&&n.top<=(e.innerHeight||document.documentElement.clientHeight)&&function(){var t,n,e,i,o=c[r];t=o,n=function(){c=c.filter(function(t){return o!==t})},e=new Image,i=t.getAttribute("data-original"),e.onload=function(){t.src=i,n&&n()},e.src=i}();var t,n}i(),e.addEventListener("scroll",function(){var t,n;t=i,n=e,clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(n)},500)})}(this);</script><script>window.addEventListener("load",function(){var t=/\.(gif|jpg|jpeg|tiff|png)$/i,r=/^data:image\/[a-z]+;base64,/;Array.prototype.slice.call(document.querySelectorAll("img[data-original]")).forEach(function(a){var e=a.parentNode;"A"===e.tagName&&(e.href.match(t)||e.href.match(r))&&(e.href=a.dataset.original)})});</script></body></html>
