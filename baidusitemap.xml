@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
+    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
     <lastmod>2020-02-04</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
@@ -22,7 +22,7 @@
     <loc>https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/</loc>
     <lastmod>2020-02-04</lastmod>
   </url>  <url>
-    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
+    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
     <lastmod>2020-02-04</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/git-commit-message-emoji-styleguide/</loc>
