@@ -29,25 +29,25 @@ ga('send', 'pageview');</script><link rel="dns-prefetch" href="http://ta.qq.com"
 <p>原文:  <a href="https://andrewlock.net/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/" target="_blank" rel="noopener">How to build with Cake on Linux using Cake.CoreCLR or the Cake global tool</a></p>
 <p>作者:  <a href="https://andrewlock.net/about/" target="_blank" rel="noopener">Andrew Lock</a></p>
 </blockquote>
-<p>在本文中，我会演示使用<a href="https://cakebuild.net/" target="_blank" rel="noopener">Cake的构建系统</a><a href="http://xn--Linux-9h1hm85c1xod9r.NET" target="_blank" rel="noopener">在Linux上构建.NET</a> Core项目的两种方式：一是使用<code>Cake.CoreCLR</code>库，二是使用<code>Cake.Tool .NET Core</code>全局工具。 这篇文章仅涉及使用<code>Cake</code>，并不详细说明如何编写自定义的Cake构建脚本。 我建议阅读<a href="https://rehansaeed.com/cross-platform-devops-net-core/" target="_blank" rel="noopener">Muhammad Rehan Saeed</a>的文章，其中提供了Cake构建脚本，或者我之前的文章<a href="https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/" target="_blank" rel="noopener">有关在Docker中使用Cake</a>。</p>
+<p>在本文中，我会演示使用<a href="https://cakebuild.net/" target="_blank" rel="noopener">Cake的构建系统</a>在Linux上构建.NET Core项目的两种方式：一是使用<code>Cake.CoreCLR</code>库，二是使用<code>Cake.Tool .NET Core</code>全局工具。 这篇文章仅涉及使用<code>Cake</code>，并不详细说明如何编写自定义的Cake构建脚本。 我建议阅读<a href="https://rehansaeed.com/cross-platform-devops-net-core/" target="_blank" rel="noopener">Muhammad Rehan Saeed</a>的文章，其中提供了Cake构建脚本，或者我之前的文章<a href="https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/" target="_blank" rel="noopener">有关在Docker中使用Cake</a>。</p>
 <a id="more"></a>
 <h2 id="Cake，Cake-CoreCLR，Cake-Tool">Cake，Cake.CoreCLR，Cake.Tool</h2>
-<p>在<a href="https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/" target="_blank" rel="noopener">之前的文章中</a>，<a href="http://xn--MonoLinux-yb6nk6b88dvpx99f20htv9awggcq8fl9ydoo5azsa.NET" target="_blank" rel="noopener">我描述了如何使用Mono在Linux上运行.NET</a> Framework的Cake。那个时候，<a href="http://xn--onqn369as0n5tdt2gw9c7q7c96jf54agjj.NET" target="_blank" rel="noopener">我们可以这种方式来编译.NET</a> Framework的库，并运行单元测试。</p>
-<p>目前，如果只是编译（不需要运行）的话，可以引用 <a href="https://andrewlock.net/using-reference-assemblies-to-build-net-framework-libararies-on-linux-without-mono/" target="_blank" rel="noopener"><em>Microsoft.NetFramework.ReferenceAssemblies</em></a> 包在Linux上编译。无需安装Mono，因此，<a href="http://xn--Cake-uh5fx46hf63a7k9a.NET" target="_blank" rel="noopener">我认为Cake的.NET</a> Framework版本，不再是在Linux上编译的最佳选择。</p>
+<p>在<a href="https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/" target="_blank" rel="noopener">之前的文章中</a>，我描述了如何使用Mono在Linux上运行.NET Framework的Cake。那个时候，我们可以这种方式来编译.NET Framework的库，并运行单元测试。</p>
+<p>目前，如果只是编译（不需要运行）的话，可以引用 <a href="https://andrewlock.net/using-reference-assemblies-to-build-net-framework-libararies-on-linux-without-mono/" target="_blank" rel="noopener"><em>Microsoft.NetFramework.ReferenceAssemblies</em></a> 包在Linux上编译。无需安装Mono，因此，我认为Cake的.NET Framework版本，不再是在Linux上编译的最佳选择。</p>
 <p><a href="https://github.com/cake-build/cake/issues/1751#issuecomment-487494424" target="_blank" rel="noopener">现在有3个不同版本的Cake</a>：</p>
 <ul>
-<li><a href="https://www.nuget.org/packages/Cake.Tool/" target="_blank" rel="noopener">Cake.Tool</a> ：<a href="http://xn--iqr997m.NET" target="_blank" rel="noopener">面向.NET</a> Core 2.1的全局工具。</li>
-<li><a href="https://www.nuget.org/packages/Cake.CoreCLR/" target="_blank" rel="noopener">Cake.CoreCLR</a> ：<a href="http://xn--iqr997m.NET" target="_blank" rel="noopener">面向.NET</a> Core 2.0的命令行程序。</li>
-<li><a href="https://www.nuget.org/packages/Cake/" target="_blank" rel="noopener">Cake</a> ：<a href="http://xn--iqr997m.NET" target="_blank" rel="noopener">面向.NET</a> Framework 4.61/Mono 的命令行程序。</li>
+<li><a href="https://www.nuget.org/packages/Cake.Tool/" target="_blank" rel="noopener">Cake.Tool</a> ：面向.NET Core 2.1的全局工具。</li>
+<li><a href="https://www.nuget.org/packages/Cake.CoreCLR/" target="_blank" rel="noopener">Cake.CoreCLR</a> ：面向.NET Core 2.0的命令行程序。</li>
+<li><a href="https://www.nuget.org/packages/Cake/" target="_blank" rel="noopener">Cake</a> ：面向.NET Framework 4.61/Mono 的命令行程序。</li>
 </ul>
 <p>具体哪种选择哪个版本，可能取决于您程序的实际环境。 这些工具的优点是，可以在不同版本之间进行切换，而不必完全更改实际的<em>build.cake</em>构建脚本。主要区别在于如何获取和运行Cake的引导脚本。</p>
 <blockquote>
-<p>请注意，在本文中，<a href="http://xn--ykqp6bb5srmcexeb8m1mhpzo1ij61ee7ulg2asci.NET" target="_blank" rel="noopener">假设您已经安装了正确版本的.NET</a> Core。 <a href="http://xn--fiqq3fixgf6enqav2mexqeia437r79p.NET" target="_blank" rel="noopener">有关在引导脚本中安装.NET</a> Core SDK的示例，请从Cake项目中<a href="https://github.com/cake-build/cake/blob/06e7983704/build.sh" target="_blank" rel="noopener">查看此示例</a>。</p>
+<p>请注意，在本文中，假设您已经安装了正确版本的.NET Core。 有关在引导脚本中安装.NET Core SDK的示例，请从Cake项目中<a href="https://github.com/cake-build/cake/blob/06e7983704/build.sh" target="_blank" rel="noopener">查看此示例</a>。</p>
 </blockquote>
 <h2 id="通过Cake-CoreCLR在Linux上构建">通过Cake.CoreCLR在Linux上构建</h2>
 <p>可以通过使用<code>Cake.CoreCLR</code>来转换基于Mono的Cake构建。这种方式相对比较容易，虽然花了一些时间来查找引导脚本。下面2种方式都可以获取到正确引导脚本：</p>
 <ul>
-<li><a href="http://xn--2rqz13g.NET" target="_blank" rel="noopener">使用.NET</a> Core CLI命令还原<code>Cake.CoreCLR</code>包。</li>
+<li>使用.NET Core CLI命令还原<code>Cake.CoreCLR</code>包。</li>
 <li>使用<code>curl</code>下载<code>Cake.CoreCLR</code>包，然后手动解压。</li>
 </ul>
 <blockquote>
@@ -56,7 +56,7 @@ ga('send', 'pageview');</script><link rel="dns-prefetch" href="http://ta.qq.com"
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">dotnet new classlib -o <span class="string">"<span class="variable">$TEMP_DIR</span>"</span> --no-restore</span><br><span class="line">dotnet add <span class="string">"<span class="variable">$TEMP_PROJECT</span>"</span> package Cake.CoreCLR --package-directory <span class="string">"<span class="variable">$TOOLS_DIR</span>"</span> --version <span class="string">"<span class="variable">$CAKE_VERSION</span>"</span></span><br><span class="line">rm -rf <span class="string">"<span class="variable">$TEMP_DIR</span>"</span></span><br></pre></td></tr></table></figure>
 <p>上面的脚本，完成了4件事：</p>
 <ul>
-<li>使用<code>dotnet new</code>在<code>$TEMP_DIR</code>目录内，<a href="http://xn--4gqvd4azzy6m4mxzflyi6a.NET" target="_blank" rel="noopener">创建了一个临时的.NET</a> Core项目。</li>
+<li>使用<code>dotnet new</code>在<code>$TEMP_DIR</code>目录内，创建了一个临时的.NET Core项目。</li>
 <li>添加<code>Cake.CoreCLR</code>引用到这个临时项目。</li>
 <li>还原这个项目的引用到指定目录<code>$TOOLS_DIR</code>。</li>
 <li>删除临时项目。</li>
@@ -76,9 +76,9 @@ ga('send', 'pageview');</script><link rel="dns-prefetch" href="http://ta.qq.com"
 <blockquote>
 <p>请注意，您的环境必须有unzip命令。（一般不会默认安装的）</p>
 </blockquote>
-<p>无论使用那种方法，都能够下载<code>Cake.CoreCLR </code>NuGet包。<a href="http://xn--4gqq7lv9gbml4qa923a7zw9l1a.NET" target="_blank" rel="noopener">另一种方法是安装.NET</a> Core 全局工具。</p>
+<p>无论使用那种方法，都能够下载<code>Cake.CoreCLR </code>NuGet包。另一种方法是安装.NET Core 全局工具。</p>
 <h2 id="使用Cake全局工具在Linux上构建">使用Cake全局工具在Linux上构建</h2>
-<p>.NET Core 2.1引入了<a href="https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools" target="_blank" rel="noopener">全局工具</a>的概念。 这些CLI工具可以全局安装在您的计算机上，实际上它只是控制台应用程序。 在<a href="https://andrewlock.net/creating-a-net-core-global-cli-tool-for-squashing-images-with-the-tinypng-api/" target="_blank" rel="noopener">上一篇文章中</a>，<a href="http://xn--ykqpts0esslc6gq1ehrdgw2k.NET" target="_blank" rel="noopener">我描述了如何创建.NET</a> Core全局工具。 <a href="http://xn--Cake-ob5fvqzi52f73pm43b.NET" target="_blank" rel="noopener">Cake也提供了可与.NET</a> Core 2.1+一起使用的全局工具。</p>
+<p>.NET Core 2.1引入了<a href="https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools" target="_blank" rel="noopener">全局工具</a>的概念。 这些CLI工具可以全局安装在您的计算机上，实际上它只是控制台应用程序。 在<a href="https://andrewlock.net/creating-a-net-core-global-cli-tool-for-squashing-images-with-the-tinypng-api/" target="_blank" rel="noopener">上一篇文章中</a>，我描述了如何创建.NET Core全局工具。 Cake也提供了可与.NET Core 2.1+一起使用的全局工具。</p>
 <p>根据您的使用情况，您可能不想全局安装Cake工具。 也可以通过传递<code>--tool-path</code>参数，将全局工具安装到指定文件夹，在这种情况下，您可以安装该工具的多个实例。</p>
 <blockquote>
 <p>我的选择是：在每个解决方案内，安装的全局工具，以消除对外界的工具的依赖。这样可以允许每个项目自包含不同版本的工具。唯一不足的就是，会消耗更多的磁盘空间。</p>
@@ -101,7 +101,7 @@ ga('send', 'pageview');</script><link rel="dns-prefetch" href="http://ta.qq.com"
 <p>随后，直接执行该工具就好了。</p>
 <p>我个人认为，在所有情况下（.NET Core 2.1+），都可以使用全局工具。 全局工具将在<a href="https://www.dotnetcurry.com/dotnet/1495/dotnet-core-global-tools" target="_blank" rel="noopener">.NET Core 3.0中进行更新</a>，但是我相信仍然是在Linux / Mac上使用<code>Cake</code>的标准方法。</p>
 <h2 id="总结">总结</h2>
-<p>在本文中，我展示了在Linux上运行Cake的两种方法：<a href="http://xn--Cake-9s6fu80r.xn--CoreCLR-nf7n.NET" target="_blank" rel="noopener">使用Cake.CoreCLR或.NET</a> Core全局工具Cake.Tool。 一般来说，我建议使用全局工具，因为这是首选方法-<a href="https://github.com/cake-build/cake/blob/06e7983704/build.sh" target="_blank" rel="noopener">Cake项目本身也是使用.NET Core全局工具构建的</a>！</p>
+<p>在本文中，我展示了在Linux上运行Cake的两种方法：使用Cake.CoreCLR或.NET Core全局工具Cake.Tool。 一般来说，我建议使用全局工具，因为这是首选方法-<a href="https://github.com/cake-build/cake/blob/06e7983704/build.sh" target="_blank" rel="noopener">Cake项目本身也是使用.NET Core全局工具构建的</a>！</p>
 <h2 id="参考链接">参考链接</h2>
 <ul>
 <li><a href="https://medium.com/@dmitriy.litichevskiy/cake-and-net-core-we-must-go-deeper-e51102dfa787" target="_blank" rel="noopener">Cake and .NET Core: we must go deeper</a> by <a href="https://medium.com/@dmitriy.litichevskiy" target="_blank" rel="noopener">Dmitriy Litichevskiy</a></li>
