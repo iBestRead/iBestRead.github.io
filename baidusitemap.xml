@@ -34,10 +34,10 @@
     <loc>https://blog.ibestread.com/converting-a-netstandard-2-library-to-netcore-3/</loc>
     <lastmod>2020-02-05</lastmod>
   </url>  <url>
-    <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
+    <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
     <lastmod>2020-02-05</lastmod>
   </url>  <url>
-    <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
+    <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
     <lastmod>2020-02-05</lastmod>
   </url>
 </urlset>
