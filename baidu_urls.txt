@@ -1,3 +1,5 @@
+https://blog.ibestread.com/converting-a-netstandard-2-library-to-netcore-3/
+https://blog.ibestread.com/upgrading-to-asp-net-core-3/
 https://blog.ibestread.com/new-in-net-core-3-local-tools/
 https://blog.ibestread.com/install-chocolatey-choco-windows10/
 https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/
@@ -6,5 +8,3 @@ https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-
 https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/
 https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/
 https://blog.ibestread.com/git-commit-message-emoji-styleguide/
-https://blog.ibestread.com/exploring-asp-net-core-3/
-https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/
