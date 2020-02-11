@@ -4,9 +4,6 @@
     <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
-    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
-    <lastmod>2020-02-11</lastmod>
-  </url>  <url>
     <loc>https://blog.ibestread.com/install-chocolatey-choco-windows10/</loc>
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
@@ -14,9 +11,6 @@
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/upgrading-to-asp-net-core-3/</loc>
-    <lastmod>2020-02-11</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/</loc>
@@ -46,6 +40,9 @@
     <loc>https://blog.ibestread.com/avoiding-startup-service-injection-in-asp-net-core-3/</loc>
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
+    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
+    <lastmod>2020-02-11</lastmod>
+  </url>  <url>
     <loc>https://blog.ibestread.com/converting-integration-tests-to-net-core-3/</loc>
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
@@ -53,6 +50,9 @@
     <lastmod>2020-02-11</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
+    <lastmod>2020-02-11</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
     <lastmod>2020-02-11</lastmod>
   </url>
 </urlset>
