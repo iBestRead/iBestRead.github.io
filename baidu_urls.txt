@@ -1,3 +1,4 @@
+https://blog.ibestread.com/awesome-windows-applications/
 https://blog.ibestread.com/converting-integration-tests-to-net-core-3/
 https://blog.ibestread.com/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/
 https://blog.ibestread.com/avoiding-startup-service-injection-in-asp-net-core-3/
@@ -7,4 +8,3 @@ https://blog.ibestread.com/converting-a-netstandard-2-library-to-netcore-3/
 https://blog.ibestread.com/upgrading-to-asp-net-core-3/
 https://blog.ibestread.com/new-in-net-core-3-local-tools/
 https://blog.ibestread.com/install-chocolatey-choco-windows10/
-https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/
