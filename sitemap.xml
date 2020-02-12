@@ -2,177 +2,177 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.ibestread.com/tags/index.html</loc>
     
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/slides/index.html</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
+    <lastmod>2020-02-12T01:32:01.097Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/series/index.html</loc>
     
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
+    <lastmod>2020-02-12T01:32:01.097Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/ihostingenvironment-vs-ihost-environment-obsolete-types-in-net-core-3/</loc>
+    <loc>https://blog.ibestread.com/slides/index.html</loc>
     
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/make-net-data-types-human-readable-with-humanizer/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/categories/index.html</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/upgrading-to-asp-net-core-3/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/install-chocolatey-choco-windows10/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/converting-integration-tests-to-net-core-3/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/git-commit-message-emoji-styleguide/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/manifest.json</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/googleb4ef1da1676b6c6b.html</loc>
-    
-    <lastmod>2020-02-12T01:20:33.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.002Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/converting-a-netstandard-2-library-to-netcore-3/</loc>
-    
-    <lastmod>2020-02-12T01:20:33.002Z</lastmod>
+    <lastmod>2020-02-12T01:32:01.097Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/avoiding-startup-service-injection-in-asp-net-core-3/</loc>
     
-    <lastmod>2020-02-12T01:20:33.002Z</lastmod>
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/</loc>
+    <loc>https://blog.ibestread.com/ihostingenvironment-vs-ihost-environment-obsolete-types-in-net-core-3/</loc>
     
-    <lastmod>2020-02-12T01:20:33.002Z</lastmod>
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/make-net-data-types-human-readable-with-humanizer/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/converting-a-netstandard-2-library-to-netcore-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/upgrading-to-asp-net-core-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/install-chocolatey-choco-windows10/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/converting-integration-tests-to-net-core-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/git-commit-message-emoji-styleguide/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/exploring-the-new-project-file-program-and-the-generic-host-in-asp-net-core-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/googleb4ef1da1676b6c6b.html</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/manifest.json</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/categories/index.html</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/awesome-windows-applications/</loc>
     
-    <lastmod>2020-02-12T01:20:33.002Z</lastmod>
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/introducing-ihostlifetime-and-untangling-the-generic-host-startup-interactions/</loc>
+    
+    <lastmod>2020-02-12T01:32:01.093Z</lastmod>
     
   </url>
   
