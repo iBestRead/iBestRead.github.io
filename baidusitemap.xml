@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
+    <lastmod>2020-02-13</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
+    <lastmod>2020-02-13</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/install-chocolatey-choco-windows10/</loc>
+    <lastmod>2020-02-13</lastmod>
+  </url>  <url>
+    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
+    <lastmod>2020-02-13</lastmod>
+  </url>  <url>
     <loc>https://blog.ibestread.com/upgrading-to-asp-net-core-3/</loc>
     <lastmod>2020-02-13</lastmod>
   </url>  <url>
@@ -50,18 +62,6 @@
     <lastmod>2020-02-13</lastmod>
   </url>  <url>
     <loc>https://blog.ibestread.com/awesome-windows-applications/</loc>
-    <lastmod>2020-02-13</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/exploring-asp-net-core-3/</loc>
-    <lastmod>2020-02-13</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/install-chocolatey-choco-windows10/</loc>
-    <lastmod>2020-02-13</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
-    <lastmod>2020-02-13</lastmod>
-  </url>  <url>
-    <loc>https://blog.ibestread.com/new-in-net-core-3-local-tools/</loc>
     <lastmod>2020-02-13</lastmod>
   </url>
 </urlset>
