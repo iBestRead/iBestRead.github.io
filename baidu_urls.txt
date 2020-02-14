@@ -1,3 +1,4 @@
+https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-logging-the-selected-endpoint-name-with-serilog/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-reducing-log-verbosity/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3/
 https://blog.ibestread.com/awesome-windows-applications/
@@ -7,4 +8,3 @@ https://blog.ibestread.com/avoiding-startup-service-injection-in-asp-net-core-3/
 https://blog.ibestread.com/ihostingenvironment-vs-ihost-environment-obsolete-types-in-net-core-3/
 https://blog.ibestread.com/make-net-data-types-human-readable-with-humanizer/
 https://blog.ibestread.com/converting-a-netstandard-2-library-to-netcore-3/
-https://blog.ibestread.com/upgrading-to-asp-net-core-3/
