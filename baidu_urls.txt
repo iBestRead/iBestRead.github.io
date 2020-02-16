@@ -1,5 +1,5 @@
-https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-logging-mvc-propertis-with-serilog/
 https://blog.ibestread.com/asp-net-core-in-action-filters/
+https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-logging-mvc-propertis-with-serilog/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-logging-the-selected-endpoint-name-with-serilog/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-reducing-log-verbosity/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3/
