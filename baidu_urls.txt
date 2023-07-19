@@ -1,3 +1,4 @@
+https://blog.ibestread.com/using-jetbrains-for-learning/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-excluding-health-check-endpoints-from-serilog-request-logging/
 https://blog.ibestread.com/asp-net-core-in-action-filters/
 https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3-logging-mvc-propertis-with-serilog/
@@ -7,4 +8,3 @@ https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3/
 https://blog.ibestread.com/awesome-windows-applications/
 https://blog.ibestread.com/converting-integration-tests-to-net-core-3/
 https://blog.ibestread.com/converting-a-terminal-middleware-to-endpoint-routing-in-aspnetcore-3/
-https://blog.ibestread.com/avoiding-startup-service-injection-in-asp-net-core-3/
