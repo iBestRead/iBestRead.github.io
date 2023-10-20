@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.ibestread.com/using-jetbrains-for-learning/</loc>
+    <lastmod>2023-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -9,7 +13,7 @@
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.ibestread.com/using-serilog-aspnetcore-in-asp-net-core-3/</loc>
+    <loc>https://blog.ibestread.com/upgrading-to-asp-net-core-3/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -25,7 +29,7 @@
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.ibestread.com/upgrading-to-asp-net-core-3/</loc>
+    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -33,15 +37,7 @@
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.ibestread.com/new-in-aspnetcore-3-structured-logging-for-startup-messages/</loc>
-    <lastmod>2023-07-19</lastmod>
-  </url>
-  <url>
     <loc>https://blog.ibestread.com/running-async-tasks-on-app-startup-in-asp-net-core-3/</loc>
-    <lastmod>2023-07-19</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.ibestread.com/make-net-data-types-human-readable-with-humanizer/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -53,7 +49,15 @@
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
+    <loc>https://blog.ibestread.com/make-net-data-types-human-readable-with-humanizer/</loc>
+    <lastmod>2023-07-19</lastmod>
+  </url>
+  <url>
     <loc>https://blog.ibestread.com/new-in-asp-net-core-3-service-provider-validation/</loc>
+    <lastmod>2023-07-19</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.ibestread.com/git-commit-message-emoji-styleguide/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -62,10 +66,6 @@
   </url>
   <url>
     <loc>https://blog.ibestread.com/how-to-build-with-cake-on-linux-using-cake-coreclr-or-the-cake-global-tool/</loc>
-    <lastmod>2023-07-19</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.ibestread.com/git-commit-message-emoji-styleguide/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -85,7 +85,7 @@
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.ibestread.com/awesome-windows-applications/</loc>
+    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
@@ -93,7 +93,7 @@
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>
-    <loc>https://blog.ibestread.com/comparing-startup-between-the-asp-net-core-3-templates/</loc>
+    <loc>https://blog.ibestread.com/awesome-windows-applications/</loc>
     <lastmod>2023-07-19</lastmod>
   </url>
   <url>

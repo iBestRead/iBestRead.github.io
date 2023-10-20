@@ -4,6 +4,15 @@
   <url>
     <loc>https://blog.ibestread.com/using-jetbrains-for-learning/</loc>
     
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/slides/index.html</loc>
+    
     <lastmod>2023-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://blog.ibestread.com/tags/index.html</loc>
-    
-    <lastmod>2023-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/slides/index.html</loc>
     
     <lastmod>2023-07-19</lastmod>
     
@@ -292,274 +292,274 @@
 
   <url>
     <loc>https://blog.ibestread.com/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://blog.ibestread.com/tags/NET-CORE/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/tags/NET-CORE-3-0/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/tags/Startup/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ibestread.com/tags/ASP-NET-CORE/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/ASP-NET-CORE-IN-ACTION/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/MVC/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/NET-CORE/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/NET-CORE-3-0/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/Startup/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/ASP-NET-CORE-3-0/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E5%90%AF%E5%8A%A8/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/WINDOWS/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/tags/%E7%AB%AF%E7%82%B9%E8%B7%AF%E7%94%B1/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/tags/Endpoint-Routing/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/Testing/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/%E7%AB%AF%E7%82%B9%E8%B7%AF%E7%94%B1/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/%E9%80%9A%E7%94%A8%E4%B8%BB%E6%9C%BA/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/Endpoint-Routing/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/GIT-COMMIT/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/EMOJI/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E7%B3%BB%E5%88%97/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/CAKE/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/DEVOPS/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/tags/DOCKER/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/%E9%80%9A%E7%94%A8%E4%B8%BB%E6%9C%BA/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/HostEnvironment/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/Chocolatey/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/NET/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/CAKE/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/Humanizer/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/DEVOPS/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/DOCKER/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/IHostLifetime/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E5%90%8E%E5%8F%B0%E4%BB%BB%E5%8A%A1/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/NET/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ibestread.com/tags/%E6%9C%8D%E5%8A%A1%E9%AA%8C%E8%AF%81/</loc>
-    <lastmod>2023-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ibestread.com/tags/%E5%BC%82%E6%AD%A5/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <loc>https://blog.ibestread.com/tags/Humanizer/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E5%85%A8%E5%B1%80%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/%E6%9C%8D%E5%8A%A1%E9%AA%8C%E8%AF%81/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ibestread.com/tags/%E5%BC%82%E6%AD%A5/</loc>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/JetBrains/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/Serilog/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/tags/%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -568,35 +568,35 @@
   
   <url>
     <loc>https://blog.ibestread.com/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/categories/%E7%B3%BB%E5%88%97/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/categories/%E7%B3%BB%E5%88%97/%E6%8E%A2%E7%B4%A2ASP-NETCore3-0/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/categories/%E7%B3%BB%E5%88%97/%E5%8D%87%E7%BA%A7%E8%87%B3-ASP-NET-Core-3-0/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.ibestread.com/categories/%E7%B3%BB%E5%88%97/%E5%9C%A8ASP-NET-Core-3-0%E4%B8%AD%E4%BD%BF%E7%94%A8Serilog-AspNetCore/</loc>
-    <lastmod>2023-07-19</lastmod>
+    <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
